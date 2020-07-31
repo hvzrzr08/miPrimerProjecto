@@ -1,6 +1,6 @@
 'use strict';
 
-alert('pepepep');
+alert('iniciando...');
 
 new Promise((resolve, reject) ={
     setTimeout(() => reject(2), 1000)
